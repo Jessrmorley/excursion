@@ -1,0 +1,37 @@
+body {
+  background-color: black;
+  font-family: Verdana;
+  text-align:center;
+}
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+  color:white;
+}
+h3 {
+  color: Aquamarine;
+  font-size: 16px;
+  text-decoration: underline;
+  font-weight:lighter;
+}
+h2 {
+  color: white;
+  font-size:42px;
+  font-weight: 300;
+}
+h4 {
+  font-size: 21px;
+  color: gray;
+  font-weight:lighter;
+}
+#camp {
+  margin-bottom: 20px;
+}
+#cellphone {
+  display:block;
+  align:center;
+  margin:auto;
+}
+#copyright {
+  text-align: right;
+}
